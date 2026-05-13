@@ -1,0 +1,62 @@
+body{
+    margin:0;
+    font-family: Arial;
+}
+
+/* NAVBAR */
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    background:#222;
+    color:white;
+    padding:15px;
+}
+
+.navbar a{
+    color:white;
+    margin-left:15px;
+    text-decoration:none;
+}
+
+/* HERO */
+.hero{
+    text-align:center;
+    padding:80px;
+    background:#f4f4f4;
+}
+
+.hero button{
+    padding:10px 20px;
+    background:#007bff;
+    color:white;
+    border:none;
+}
+
+/* SECTION */
+.section{
+    text-align:center;
+    padding:40px;
+}
+
+/* FEATURES */
+.features{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    flex-wrap:wrap;
+}
+
+/* CARD */
+.card{
+    background:#eee;
+    padding:20px;
+    width:250px;
+}
+
+/* FOOTER */
+footer{
+    text-align:center;
+    background:#222;
+    color:white;
+    padding:10px;
+}
