@@ -29,7 +29,7 @@ This project showcases a premium restaurant UI with elegant design, food section
 ---
 
 ## 📸 Screenshot
-<img width="1296" height="594" alt="image" src="https://github.com/user-attachments/assets/b801af66-3193-4562-837c-dc87c0cb9f83" />
+<img width="1347" height="607" alt="Header" src="https://github.com/user-attachments/assets/6eb86d31-3a57-4126-a7be-179a673d3ec3" />
 <img width="1324" height="595" alt="section" src="https://github.com/user-attachments/assets/140c0a60-4fae-4645-8979-e5fc9c3084bd" />
 <img width="1310" height="553" alt="about" src="https://github.com/user-attachments/assets/776ac3d7-48e8-471e-b1be-81699654c2b6" />
 <img width="1305" height="526" alt="food" src="https://github.com/user-attachments/assets/33dd24c1-41cf-4bb5-a674-b5879c6c69b9" />
